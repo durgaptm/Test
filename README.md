@@ -1,2 +1,2 @@
 # Test
-Test miscellaneous repo
+Test miscellaneous repo for git commands demonstration
